@@ -87,7 +87,7 @@ class _TemplesState extends State<Temples> {
       body: StreamBuilder(
         stream: templesBloc.allTemplesList,
         builder: (context, AsyncSnapshot<TemplesModel>snapshot){
-          print("server data");
+          print("server details data");
           if(snapshot.hasData){
             print(snapshot.data.results[0].templeName);
             return ListView.builder(
