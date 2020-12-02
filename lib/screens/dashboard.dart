@@ -22,7 +22,7 @@ class Dashboard extends StatelessWidget {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text("Your Current Location", style: TextStyle(
+                    Text("Your Location", style: TextStyle(
                       color: Colors.black,
                       fontSize: 14,
                       fontWeight: FontWeight.normal,
