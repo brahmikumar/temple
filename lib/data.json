@@ -1,0 +1,23 @@
+[
+  {
+    "image" : "assets/images/temple.jpeg",
+    "text" : "Temples"
+  },
+  {
+    "image" : "assets/images/homam.jpeg",
+    "text" : "Homams & Pooja"
+  },
+  {
+    "image" : "assets/images/poojari.jpeg",
+    "text" : "Poojari"
+  },
+  {
+    "image" : "assets/images/shop.jpeg",
+    "text" : "Shop"
+  },
+  {
+    "image" : "assets/images/astrologer.jpeg",
+    "text" : "Astrologer"
+  }
+]
+
